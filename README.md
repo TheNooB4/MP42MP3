@@ -1,11 +1,9 @@
-Add more customizations for beauty on github README.md
-
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>MP4_2_MP3</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 </head>
 <body>
   <h1>TERMUX_MP4_2_MP3</h1>
@@ -19,19 +17,19 @@ Add more customizations for beauty on github README.md
   <ol>
     <li>Run the following command to update the package list and upgrade installed packages:</li>
   
-    <pre><code>apt-get update && apt-get upgrade && pkg install python git</code></pre>
+  <pre><code>apt-get update &amp;&amp; apt-get upgrade &amp;&amp; pkg install python git</code></pre>
 
-    <li>Once Python and Git are installed, run the following command to clone the repository:</li>
+  <li>Once Python and Git are installed, run the following command to clone the repository:</li>
   
-    <pre><code>git clone https://github.com/TheNooB4/Mp42Mp3</code></pre>
+  <pre><code>git clone https://github.com/TheNooB4/Mp42Mp3</code></pre>
 
-    <li>Change the directory to the cloned repository:</li>
+  <li>Change the directory to the cloned repository:</li>
   
-    <pre><code>cd Mp42Mp3</code></pre>
+  <pre><code>cd Mp42Mp3</code></pre>
 
-    <li>Now you can proceed with using the script by running the Python file. For example:</li>
+  <li>Now you can proceed with using the script by running the Python file. For example:</li>
   
-    <pre><code>python mp42mp3.py</code></pre>
+  <pre><code>python mp42mp3.py</code></pre>
   </ol>
 
   <h2>Usage</h2>
@@ -43,6 +41,6 @@ Add more customizations for beauty on github README.md
 
   <hr>
 
-  <p align="center">Made with ❤️</p>
+  <p align="center">Made with ❤️ </p>
 </body>
 </html>
