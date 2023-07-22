@@ -8,11 +8,11 @@
 <body>
   <h1>TERMUX_MP4_2_MP3</h1>
 
-  <p>This is a description of the project. Add a brief introduction and overview here.</p>
+  <p>This is a python tool that allows you to convert mp4 videos to mp3 audios.</p>
 
   <h2>Installation</h2>
 
-  <p>Provide instructions on how to install and set up the project.</p>
+  <p>Follow the instructions on how to install.</p>
 
   <ol>
     <li>Run the following command to update the package list and upgrade installed packages:</li>
